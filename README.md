@@ -1,6 +1,6 @@
 # text2image
 
-The package provides a python implementation of a new text2image baseline for image retrieval and query visualness computation proposed in [1].
+The package provides a python implementation of a new text2image baseline for image retrieval and query visualness computation proposed in [2].
 
 ## Requirements
 ### Required Packages
