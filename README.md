@@ -19,7 +19,7 @@ The extracted data is placed in `$HOME/VisualSearch/`.
 ROOTPATH=$HOME/VisualSearch
 mkdir -p $ROOTPATH && cd $ROOTPATH
 
-wget http://lixirong.net/data/wir-tmm2018/clickture_dataset.tar.gz
+wget http://39.104.114.128/wir-tmm2018/clickture_dataset.tar.gz
 tar zxf clickture_dataset.tar.gz
 ```
 
